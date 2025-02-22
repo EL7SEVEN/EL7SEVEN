@@ -7,6 +7,7 @@ Sou estudante de **Ciência da Computação** (3º semestre) e atuo na área de 
 - **Redes e Telefonia**: Configuração e manutenção de infraestruturas de rede e sistemas de telefonia.
 - **Monitoramento**: Utilizando ferramentas como **Zabbix** para monitoramento de sistemas e equipamentos.
 - **Sistemas Linux**: Explorando administração e configuração de sistemas baseados em Linux.
+- **Desenvolvimento**: Aprendendo **React, JavaScript, Python e Java** para criar soluções práticas.
 
 ## 💡 Inspiração
 *"A tecnologia é poderosa, mas é o talento dos profissionais de informática que a torna acessível."*
